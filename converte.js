@@ -17,4 +17,4 @@ function converte(nbytes){
 
 }
 
-console.log(converte(2000000000000000000000000));
+console.log(converte());
